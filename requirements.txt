@@ -1,0 +1,5 @@
+python-telegram-bot
+telebot
+telethon
+TA-Lib
+numpy
